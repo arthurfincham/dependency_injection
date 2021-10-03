@@ -10,6 +10,7 @@
 ![](https://img.shields.io/github/languages/count/arthurfincham/dependency_injection)
 ![](https://img.shields.io/github/languages/code-size/arthurfincham/dependency_injection)
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
+[![instuctions](https://img.shields.io/badge/instructions-%20-blue)](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/dependency_injection.md)
 
 
 </div>
